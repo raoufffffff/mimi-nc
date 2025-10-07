@@ -1,9 +1,10 @@
 {
   "id": "68c658a2ff7a535b2a57ca82",
   "logo": "https://i.ibb.co/k2GBrQ97/Photography-Icons-in-Blue-removebg-preview.png",
+  "store_name": "Raouf shop",
   "main_color": "#001637ff",
   "phone": "0776966468",
-  "repoName": "mimi",
+  "repoName": "mimi-nc",
   "facebook": "https://www.facebook.com/",
   "instagram": "https://www.instagram.com/",
   "tiktok": "https://www.tiktok.com/",
@@ -26,5 +27,7 @@
     "media": true,
     "titleText": "Thank you for your order!",
     "aboutText": "We will contact you soon. Have a nice day."
-  }
+  },
+  "language": "ar",
+  "EnableBerue": false
 }
