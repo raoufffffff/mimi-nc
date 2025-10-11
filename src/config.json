@@ -13,8 +13,8 @@
   "FacebookP": "",
   "header": {
     "name": true,
-    "logo": true,
-    "headercolor": "#ffffff",
+    "logo": false,
+    "headercolor": "#ff0000",
     "namecolor": "#000000",
     "barcolor": "#333"
   },
