@@ -1,7 +1,33 @@
 {
+  "id": "68c658a2ff7a535b2a57ca82",
+  "logo": "https://i.ibb.co/k2GBrQ97/Photography-Icons-in-Blue-removebg-preview.png",
+  "store_name": "Raouf shop",
+  "main_color": "#ffff00",
+  "phone": "0776966468",
   "repoName": "mimi-nc",
-  "facebookPixel": {
-    "name": "Kvkviv",
-    "id": "Jvjcycuc"
-  }
+  "facebook": "https://www.facebook.com/",
+  "instagram": "https://www.instagram.com/",
+  "tiktok": "https://www.tiktok.com/",
+  "email": "raouf.hamoudi.r@gmail.com",
+  "tiktokP": "",
+  "FacebookP": "",
+  "header": {
+    "name": true,
+    "logo": true,
+    "headercolor": "#ff0000",
+    "namecolor": "#000000",
+    "barcolor": "#333"
+  },
+  "thanks": {
+    "img": true,
+    "title": true,
+    "about": true,
+    "homebutton": true,
+    "phone": true,
+    "media": true,
+    "titleText": "Thank you for your order!",
+    "aboutText": "We will contact you soon. Have a nice day."
+  },
+  "language": "ar",
+  "EnableBerue": false
 }
