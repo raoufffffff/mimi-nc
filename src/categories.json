@@ -10,5 +10,11 @@
     "name": "anna",
     "show": true,
     "id": 2
+  },
+  {
+    "image": "https://i.ibb.co/JjrrH3Rg/blob.webp",
+    "name": "anna 2",
+    "show": true,
+    "id": 3
   }
 ]
