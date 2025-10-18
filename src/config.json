@@ -3,12 +3,12 @@
   "logo": "https://i.ibb.co/k2GBrQ97/Photography-Icons-in-Blue-removebg-preview.png",
   "store_name": "Raouf shop",
   "main_color": "#ffff00",
-  "phone": "0776966468",
+  "phone": "",
   "repoName": "mimi-nc",
-  "facebook": "https://www.facebook.com/",
-  "instagram": "https://www.instagram.com/",
-  "tiktok": "https://www.tiktok.com/",
-  "email": "raouf.hamoudi.r@gmail.com",
+  "facebook": "",
+  "instagram": "",
+  "tiktok": "",
+  "email": "ra",
   "tiktokP": "",
   "FacebookP": "",
   "header": {
@@ -37,5 +37,8 @@
   "TiktokPixel": {
     "name": "abderraouf hamoudi",
     "id": "874874"
-  }
+  },
+  "whatsapp": "",
+  "viber": "",
+  "snapchat": ""
 }
