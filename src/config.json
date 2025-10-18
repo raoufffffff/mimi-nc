@@ -23,7 +23,7 @@
     "title": true,
     "about": true,
     "homebutton": true,
-    "phone": true,
+    "phone": false,
     "media": true,
     "titleText": "Thank you for your order!",
     "aboutText": "We will contact you soon. Have a nice day."
