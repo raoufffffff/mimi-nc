@@ -40,5 +40,17 @@
   },
   "whatsapp": "",
   "viber": "",
-  "snapchat": ""
+  "snapchat": "",
+  "faqs": [
+    {
+      "question": "ckjkdjkdfjk",
+      "answer": "KJKJKJKJJ",
+      "id": "1760748806801"
+    },
+    {
+      "question": "KDLKELKLK",
+      "answer": "LKLKLKLKLK",
+      "id": "1760748812271"
+    }
+  ]
 }
