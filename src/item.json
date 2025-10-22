@@ -21,5 +21,47 @@
     "orders": 0,
     "date": "2025-10-07T12:46:20.051Z",
     "__v": 0
+  },
+  {
+    "imgs": [],
+    "_id": "68f9653fa02806d87d9f4b50",
+    "userId": "68c658a2ff7a535b2a57ca82",
+    "name": "anna",
+    "price": 2000,
+    "Variants": [
+      {
+        "id": 0,
+        "name": "color",
+        "type": "color",
+        "options": [
+          {
+            "name": "red",
+            "color": "#ff0000"
+          },
+          {
+            "name": "blue",
+            "color": "#0400ff"
+          },
+          {
+            "name": "green",
+            "color": "#04ff00"
+          }
+        ],
+        "curentOption": ""
+      }
+    ],
+    "Offers": [],
+    "show": true,
+    "type": "ldlkdlk",
+    "images": [
+      "https://i.ibb.co/N6L512VW/blob.webp",
+      "https://i.ibb.co/XrrQTvKg/blob.webp",
+      "https://i.ibb.co/ZpNpNk0h/blob.webp",
+      "https://i.ibb.co/NgG3NQxd/blob.webp"
+    ],
+    "visit": 0,
+    "orders": 0,
+    "date": "2025-10-22T23:14:07.337Z",
+    "__v": 0
   }
 ]
