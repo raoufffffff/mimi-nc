@@ -81,5 +81,33 @@
     "orders": 0,
     "date": "2025-10-22T23:16:31.884Z",
     "__v": 0
+  },
+  {
+    "imgs": [],
+    "_id": "68f96d8be2ce7f881a415798",
+    "userId": "68c658a2ff7a535b2a57ca82",
+    "name": "anna",
+    "price": 200000,
+    "Variants": [],
+    "Offers": [],
+    "show": true,
+    "type": "",
+    "images": [
+      "https://i.ibb.co/3mfLCTBL/blob.webp",
+      "https://i.ibb.co/4nT3SbnG/blob.webp",
+      "https://i.ibb.co/wrR7Nxk1/blob.webp",
+      "https://i.ibb.co/DHTYqmTz/blob.webp",
+      "https://i.ibb.co/nqBq5V9G/blob.webp",
+      "https://i.ibb.co/Kx6ZbSGY/blob.webp",
+      "https://i.ibb.co/HDWw34jJ/blob.webp",
+      "https://i.ibb.co/rRzNsJdx/blob.webp",
+      "https://i.ibb.co/9k8qyD1H/blob.webp",
+      "https://i.ibb.co/VWzL8X4T/blob.webp",
+      "https://i.ibb.co/212g3NmQ/blob.webp"
+    ],
+    "visit": 0,
+    "orders": 0,
+    "date": "2025-10-22T23:49:31.371Z",
+    "__v": 0
   }
 ]
