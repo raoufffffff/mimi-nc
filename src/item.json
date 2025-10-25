@@ -65,24 +65,5 @@
     "orders": 0,
     "date": "2025-10-22T23:14:07.337Z",
     "__v": 0
-  },
-  {
-    "LadingPages": [],
-    "imgs": [],
-    "_id": "68f965cfa02806d87d9f4b54",
-    "userId": "68c658a2ff7a535b2a57ca82",
-    "name": "lkxlkldkdlkdlk",
-    "price": 20000,
-    "Variants": [],
-    "Offers": [],
-    "show": true,
-    "type": "",
-    "images": [
-      "https://i.ibb.co/VWgwB3J8/blob.webp"
-    ],
-    "visit": 0,
-    "orders": 0,
-    "date": "2025-10-22T23:16:31.884Z",
-    "__v": 0
   }
 ]
