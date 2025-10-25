@@ -1,1 +1,28 @@
-[]
+[
+  {
+    "imgs": [],
+    "_id": "68fc44d83793584f6cbfdab6",
+    "userId": "68c658a2ff7a535b2a57ca82",
+    "name": "anna",
+    "price": 300000,
+    "ShortDescription": "",
+    "LadingPages": [],
+    "Variants": [],
+    "Offers": [],
+    "show": true,
+    "type": "",
+    "images": [
+      "https://i.ibb.co/r2XXy8zL/blob.webp",
+      "https://i.ibb.co/gZjJkcPH/blob.webp",
+      "https://i.ibb.co/My0ky34K/blob.webp",
+      "https://i.ibb.co/5WXd6Lnh/blob.webp",
+      "https://i.ibb.co/Kxsw0RK0/blob.webp",
+      "https://i.ibb.co/4RnpPnG6/blob.webp",
+      "https://i.ibb.co/991Gqfzh/blob.webp"
+    ],
+    "visit": 0,
+    "orders": 0,
+    "date": "2025-10-25T03:32:40.312Z",
+    "__v": 0
+  }
+]
